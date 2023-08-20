@@ -1,5 +1,3 @@
-**smart-freelance-blockchain README:**
-
 # Smart Freelance Blockchain
 
 This project is a Truffle and Ganache-based blockchain development environment for the Smart Freelance platform.

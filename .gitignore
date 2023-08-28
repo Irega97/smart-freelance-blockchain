@@ -1,0 +1,4 @@
+ganache-accounts.txt
+truffle-logs
+node_modules
+build
